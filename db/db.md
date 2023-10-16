@@ -27,3 +27,7 @@ docker start postgresql
 ```shell
 docker stop postgresql
 ```
+
+```shell
+docker ps -a | grep postgresql
+```
